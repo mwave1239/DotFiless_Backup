@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>439</string>
+	<key>fw</key>
+	<dict>
+		<key>99Z255</key>
+		<string>51e351b105dcb716627b5a7b82a891d9a0f85bd95d90735914e69e63b8814bad</string>
+	</dict>
+	<key>XYZware</key>
+	<dict>
+		<key>1.0.6</key>
+		<dict>
+			<key>build</key>
+			<string>1A428</string>
+			<key>sha256</key>
+			<string>c1230cc4583476a35c86fd0e3593a366f0209bd7e11d11114c297f39d0814132</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
