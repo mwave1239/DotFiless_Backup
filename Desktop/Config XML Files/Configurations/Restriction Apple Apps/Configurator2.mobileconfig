@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>Apple Configurator 2: BLS - Test (E43B1C4B-5162-4CDF-9C8D-3E5B74F63C02).cer</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIDkTCCAnmgAwIBAgIFAPFO1E8wDQYJKoZIhvcNAQELBQAwdDFQ
+			ME4GA1UEAwxHQXBwbGUgQ29uZmlndXJhdG9yIDI6IEJMUyAtIFRl
+			c3QgKEU0M0IxQzRCLTUxNjItNENERi05QzhELTNFNUI3NEY2M0Mw
+			MikxEzARBgNVBAoMCkJMUyAtIFRlc3QxCzAJBgNVBAYTAlVTMB4X
+			DTE3MDQwNzAzMDkzNloXDTM3MDQwMjAzMDkzNlowdDFQME4GA1UE
+			AwxHQXBwbGUgQ29uZmlndXJhdG9yIDI6IEJMUyAtIFRlc3QgKEU0
+			M0IxQzRCLTUxNjItNENERi05QzhELTNFNUI3NEY2M0MwMikxEzAR
+			BgNVBAoMCkJMUyAtIFRlc3QxCzAJBgNVBAYTAlVTMIIBIjANBgkq
+			hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArT0yYU+vig2EzuyZBQUd
+			oiGZxQHHnn48M6LEbQ+0cV+Dn8qF/N8NDWcOtEeDyBHt7mK7yw0y
+			a3jFFg2OwGoAQY9JqsjQVktRsglrt6BqvOQO46uUgk9aJYyFaxrr
+			YwLFchDoa9NP6QIfPfRGfsUBmQkJjE6wb7U6UZZKoOEDK9tqeqxG
+			aV2G8idnMAriyS7Ohho8iAkak/JUUpDoTyRdgPmz93+VtoP/glmQ
+			xdhW9h0qE2XUAWL+XAK5Y6QOXshYWe0SavOOWdi4OyXnqp/16rOi
+			INA3Ed2hlkcQE6znWjzTPMkclJCnJVgtVFj5s1VbI9dbTUdxMIr8
+			Qp7zUg9CSQIDAQABoyowKDAOBgNVHQ8BAf8EBAMCB4AwFgYDVR0l
+			AQH/BAwwCgYIKwYBBQUHAwMwDQYJKoZIhvcNAQELBQADggEBADi6
+			dMBd4ZjFPaoyfqB3p88RouX4v+usOp+v8yVkPTsT1wcqNR5KCpel
+			T3r2VM9m8w2SwwP1XSibyiVnm1OK30F9BMS6ROwbaZszs5zVd0Y7
+			phuZFOu7FmwThY3KAkVd3TTZbIhZojd5xBCL9n5WxNkPTDKF6WXa
+			B3ApxjAoup7QJ4pS9713Pdr/Xea0hMedfoIBSycus6lku1fbw3ZT
+			BenIaFkjOHtRtUgYd0BURJwlHp+xqH0L4TLFLjh1g7Jreyoz48d4
+			CR2J084WqKUUC5/fb2eRp0a//ykHC1d1aGe4PX/c/ezpoa2WJJl2
+			D6ho+DkckuGcl4E9UzbJE6+DjpM=
+			</data>
+			<key>PayloadDescription</key>
+			<string>Adds a CA root certificate</string>
+			<key>PayloadDisplayName</key>
+			<string>Apple Configurator 2: BLS - Test (E43B1C4B-5162-4CDF-9C8D-3E5B74F63C02)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.root.28128E04-CBA7-43E7-AFCE-FFA93810AD3F</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>28128E04-CBA7-43E7-AFCE-FFA93810AD3F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>I think we have to add the public key for decrypting</string>
+	<key>PayloadDisplayName</key>
+	<string>Configurator Certificate</string>
+	<key>PayloadIdentifier</key>
+	<string>BLS.B4736F3E-DD70-4AF2-8F2B-AFA582A7160B</string>
+	<key>PayloadOrganization</key>
+	<string>BLS</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AD878BD0-5905-464F-94B4-36C17E1F6608</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
