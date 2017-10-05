@@ -1,0 +1,1 @@
+/Users/mwave/Dropbox/Mackup/.zshrc
